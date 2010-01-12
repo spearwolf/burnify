@@ -1,4 +1,8 @@
 
+html, body {
+  height: 100%;
+}
+
 #header {
   border: 0;
   background: #ffffff;
@@ -12,6 +16,8 @@
 
 #footer {
   clear: both;
+  height: 200px;
+  margin-top: -200px;
 }
 
 #footer-content {
